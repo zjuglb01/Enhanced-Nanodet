@@ -16,7 +16,7 @@ import argparse
 import os
 import warnings
 import sys
-sys.path.append('/home/ubuntu/nanodet')
+sys.path.append('/home/ubuntu/上传/nanodet')
 import pytorch_lightning as pl
 
 import torch
