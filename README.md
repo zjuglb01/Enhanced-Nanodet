@@ -12,11 +12,11 @@ The most codes are from the NanoDet-plus(https://github.com/RangiLyu/nanodet). V
 
 We proposed a ghost2former block, which is used to replace the ghost_res of NanoDet-plus.
 
-###2.2 backbone improvement
+### 2.2 backbone improvement
 MobileNeXt is used to replace the ShuffleNetV2.
 
-###2.3 3*3depth-wise convolution improvement
-A kernel refine(KR) menthod is proposed to improve the feature extracting performance of 3*3 depth-wise convolution.
+### 2.3 3 * 3depth-wise convolution improvement
+A kernel refine(KR) menthod is proposed to improve the feature extracting performance of 3 * 3 depth-wise convolution.
 
 ## 3. Usage
 
