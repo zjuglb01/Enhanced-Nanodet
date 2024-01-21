@@ -87,6 +87,7 @@ NanoDet-Plus    | ShuffleNetV2 1.0x |  ghost_res   |416*416   |   30.4   | 1.52G
 NanoDet-Plus    | ShuffleNetV2 1.5x |  ghost_res   |416*416   |   34.1   | 2.97G | 2.44   | 12ms|
 Enhanced NanoDet_s     |  MobileNeXt       | ghost2former |320*320   |   28.1   | 0.63G | 0.77   | 6ms |
 Enhanced NanoDet_m     |  MobileNeXt       | ghost2former |416*416   |   33.9   | 1.30G | 1.25   | 9ms|
+Enhanced NanoDet_m     |  MobileNeXt       | ghost2former |416*416   |   36.0   | 2.03G | 2.54   | 13ms|
 
 
 
@@ -106,7 +107,7 @@ Tiny-DSOD       |  300*300   |   23.2   | 1.12G | 0.95   |https://github.com/lyx
 Compare with detectors more than 1M parameters.
 Model           | Resolution | COCO mAP | FLOPS | Params(M) |link|
 :--------------:|:----------:|:--------:|:-----:|:---------:|:--:|
-Enhanced NanoDet_m       |  416*416   |   33.9   | 1.30G | 1.25   | -  |
+Enhanced NanoDet_l|416*416   |   36.0   | 2.03G | 2.54   | -|
 NanoDet-plus1.0x|  416*416   |   30.4   | 1.52G | 1.17   |https://github.com/RangiLyu/nanodet |
 NanoDet-plus1.5x|  416*416   |   34.1   | 2.97G | 2.44   |https://github.com/RangiLyu/nanodet |
 yolov6n         |  416*416   |   30.8   |  -    | 4.30   |https://github.com/meituan/YOLOv6 |
