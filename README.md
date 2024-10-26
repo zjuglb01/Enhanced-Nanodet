@@ -88,6 +88,7 @@ NanoDet-Plus    | ShuffleNetV2 1.5x |  ghost_res   |416*416   |   34.1   | 2.97G
 Enhanced NanoDet_s     |  MobileNeXt       | ghost2former |320*320   |   28.1   | 0.63G | 0.77   | 6ms |
 Enhanced NanoDet_m     |  MobileNeXt       | ghost2former |416*416   |   33.9   | 1.30G | 1.25   | 9ms|
 Enhanced NanoDet_l     |  MobileNeXt       | ghost2former |416*416   |   36.5   | 2.03G | 2.54   | 13ms|
+Enhanced NanoDet_l     |  MobileNeXt       | ghost2former |640*640   |   40.5   | - | 2.54   | - |
 
 
 
